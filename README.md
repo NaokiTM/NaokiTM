@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 why is this not working
+
+![Snake animation](https://github.com/eagrundy/NaokiTM/blob/output/github-contribution-grid-snake.svg)
