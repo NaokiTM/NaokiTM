@@ -1,2 +1,2 @@
 ## Hey, I'm Naoki
-[![Naoki's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaokiTM)]
+https://github-readme-stats.vercel.app/api/top-langs/username=NaokiTM&lang_count=20&layout=donut&exclude_repo=NaokiTM
