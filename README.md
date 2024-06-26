@@ -1,8 +1,8 @@
 # _Hi, I'm Naoki_
 
-```👩‍💻 I'm currently working on a web crawler```
+```💯 I'm currently working on a web crawler```
 
-```🧠 learning about typescript, react, and three.js in more depth```
+```🎴 learning about typescript, react, and three.js in more depth```
 
 # _Stats:_
 
