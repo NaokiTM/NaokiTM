@@ -2,7 +2,7 @@
 
 ```💯 I'm currently working on a typing game```
 
-```🎴 learning about typescript, react, and AI in more depth```
+```🎴 learning about Java, React, and Linux in more depth```
 
 # _Stats:_
 
