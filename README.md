@@ -1,6 +1,6 @@
 # _Hi, I'm Naoki_
 
-```💯 I'm currently working on a typing game```
+```💯 I'm currently working on learning about linux in more depth```
 
 ```🎴 learning about Java, React, and Linux in more depth```
 
