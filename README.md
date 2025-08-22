@@ -4,7 +4,7 @@
 
 ```💯 I'm currently working on my linux dotfiles```
 
-```🐧 I'm currently using EndeavourOS!```
+```🐧 I'm using EndeavourOS as my current distro of choice!```
 
 # _Stats:_
 
