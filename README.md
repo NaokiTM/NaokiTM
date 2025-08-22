@@ -1,10 +1,10 @@
 # _Hi, I'm Naoki_
 
-```🎴 learning about Java, React, and typescript in more depth```
+```🎴 Learning about Java, React, and typescript in more depth```
 
-```💯 I'm currently working on my linux dotfiles```
+```💯 I'm currently working on my linux dotfiles and configuration```
 
-```🐧 I'm using EndeavourOS as my current distro of choice!```
+```🐧 Using EndeavourOS as my current distro of choice!```
 
 # _Stats:_
 
