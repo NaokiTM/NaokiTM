@@ -1,8 +1,10 @@
 # _Hi, I'm Naoki_
 
-```💯 I'm currently working on learning about linux and configuration```
-
 ```🎴 learning about Java, React, and typescript in more depth```
+
+```💯 I'm currently working on my linux dotfiles```
+
+```🐧 I'm currently using EndeavourOS!```
 
 # _Stats:_
 
