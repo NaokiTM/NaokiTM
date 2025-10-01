@@ -2,7 +2,7 @@
 
 ```🎴 Learning about Java, React, and typescript in more depth```
 
-```💯 I'm currently working on my linux dotfiles and configuration```
+```💯 I'm currently working on my collaborative DAW project ```
 
 ```🐧 Using EndeavourOS as my current distro of choice!```
 
