@@ -1,10 +1,10 @@
 # _Hi, I'm Naoki_
 
-```🎴 Learning about Java, React, and typescript in more depth```
+```🎴 Learning more about mobile development with Expo and react-native ```
 
-```💯 I'm currently working on my collaborative DAW project ```
+```💯 I'm currently working on my collaborative DAW project```
 
-```🐧 Using EndeavourOS as my current distro of choice!```
+```🐧 I use Arch Linux as of now, my personal dots can be found here```
 
 # _Stats:_
 
